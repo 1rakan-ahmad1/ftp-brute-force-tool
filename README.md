@@ -1,5 +1,3 @@
-![image alt](https://github.com/rakan-khaled1/ftp-brute-force-tool/blob/10014eb4465f7ececc8eb61cf90217eecdfc462a/FTP.png)
-
 # FTP Brute Force Tool (Educational)
 
 ## 📌 Description
@@ -7,7 +5,7 @@ This is an educational FTP brute force tool written in **Bash**, designed to per
 The tool uses **Nmap** to check if the FTP service is open and **Hydra** to perform brute force attacks using custom or built-in wordlists.
 
 > ⚠️ This tool is intended for **educational purposes only** and must be used **only on systems you own or have explicit permission to test**.
-
+![image alt](https://github.com/rakan-khaled1/ftp-brute-force-tool/blob/10014eb4465f7ececc8eb61cf90217eecdfc462a/FTP.png)
 ---
 
 ## ✨ Features
