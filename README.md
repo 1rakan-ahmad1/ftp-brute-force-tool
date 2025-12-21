@@ -41,9 +41,9 @@ chmod +x ftpbrute.sh
 📁 Wordlists
 The tool includes built-in wordlists:
 
-Usernames: 81,489 entries
+Usernames
 
-Passwords: 25,848 entries
+Passwords
 
 Default paths:
 
