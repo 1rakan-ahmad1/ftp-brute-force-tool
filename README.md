@@ -1,4 +1,4 @@
-# FTP Brute Force Tool (Educational)
+# FTP Brute Force Tool (ETHICAL HACKING)
 
 ## 📌 Description
 This is an educational FTP brute force tool written in **Bash**, designed to perform authorized security testing against FTP services.  
