@@ -33,7 +33,7 @@ Clone the repository and place it in the required directory:
 
 ```bash
 cd /home/kali
-git clone https://github.com/your-username/ftp-brute-force-tool.git
+git clone https://github.com/rakan-khaled1/ftp-brute-force-tool.git
 cd ftp-brute-force-tool
 chmod +x ftpbrute.sh
 ⚠️ The tool must be located in /home/kali for the built-in wordlists to work correctly.
