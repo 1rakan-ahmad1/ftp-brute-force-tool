@@ -33,7 +33,7 @@ echo "██╔══╝  ██║   ██║██╔══██╗██║
 echo "██║     ╚██████╔╝██║  ██║╚██████╗███████╗"
 echo "╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝"
 echo
-echo -e "${RED}Author   : Rakan Khaled${NC}"
+echo -e "${RED}Author   : Rakan Ahmad${NC}"
 echo -e "${RED}Tool     : FTP Brute Force Tool${NC}"
 echo -e "${RED}Purpose  : Educational / Authorized Testing Only${NC}"
 echo -e "${RED}Warning  : Use only on systems you own or have permission to test${NC}"
